@@ -12,7 +12,7 @@ Spring Boot에 Slack 관련 기능을 구현한 템플릿 프로젝트
 <br><br>
 
 ## API Introduction
-- 메일 전송
+- 메시지 전송
     - **URL** : ```/slack/send```
     - **Method** : POST
     - **Request**
